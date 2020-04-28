@@ -1,2 +1,2 @@
 @echo off
-taskkill/F /IM explorer.exer
+taskkill/F /IM explorer.exe
